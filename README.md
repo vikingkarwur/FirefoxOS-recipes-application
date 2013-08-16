@@ -14,5 +14,5 @@ public API is used.
 Screenshots
 -----------
 
-![](screenshots/screenshot.png)
-![](screenshots/screenshot1.png)
+<img src="screenshots/screenshot.png" style="float: left;" />
+<img src="screenshots/screenshot1.png" style="float: right;" />
