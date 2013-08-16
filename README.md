@@ -14,5 +14,8 @@ public API is used.
 Screenshots
 -----------
 
-<img src="screenshots/screenshot.png" align="left" />
-<img src="screenshots/screenshot1.png" align="right" />
+<div align="center">
+<img src="screenshots/screenshot.png" />
+<span></span>
+<img src="screenshots/screenshot1.png" />
+</div>
