@@ -1,0 +1,12 @@
+{
+	"name": "Recipes",
+	"description": "An app for interactive cooking",
+	"launch_path": "/index.html",
+	"developer": {
+		"name": "Moraru Stefan"
+	},
+	"icons": {
+		"128": "/images/icon.png"
+	},
+	"default_locale": "en"
+}
