@@ -14,6 +14,6 @@ public API is used.
 Screenshots
 -----------
 
-![alt tag](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108364.png?modified=1374067197)
+![](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108364.png)
 
-![alt tag](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108366.png?modified=1374067197)
+![](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108366.png)
