@@ -14,6 +14,5 @@ public API is used.
 Screenshots
 -----------
 
-![](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108364.png)
-
-![](http://marketplace.cdn.mozilla.net/img/uploads/previews/full/108/108366.png)
+![](screenshots/screenshot.png)
+![](screenshots/screenshot1.png)
